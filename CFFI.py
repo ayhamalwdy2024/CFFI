@@ -74,10 +74,10 @@ def show_program():
  ------------------------------------------------------
 
     Author     Ayham Alwdy /AA7/
-    Name        EFI  / Extract friends' information''
+    Name        CFFI  / Collecting Facebook friends information''
     CodeName   A!Y2
     version    full version
-    Date       16/01/202 09:35:12
+    Date       16/01/2025 09:35:12
     Team       Syrian programmer
     Email      ayhamalwdy2024@gmail.com
     Telegram   @AyhamAlwdy
